@@ -8,10 +8,10 @@ body{
 #main{
     width: 626px;
     margin: 0 auto;
+    max-width: 540px
 }
 #main img{
     margin: 64px auto 32px;
-    max-width: 540px
     
 }
 #main h1{
@@ -22,10 +22,6 @@ body{
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    max-width: 540px
-}
-#maiin p{
-    max-width: 540px
 }
 
 #main span{
@@ -36,8 +32,7 @@ body{
     color:#3F3D56;
 }
 #main p + p{
-    margin-top: 32px;
-    margin-bottom: 64px;
+    margin:32px auto 64px
 }
 #line{
     width: 391px;
